@@ -26,6 +26,7 @@ Ce script récupère 10 informations différentes pour chacun des 1OOO livres du
 •	image_url
 
 Ces informations sont stockées dans des fichiers csv correspondant à chaque catégorie de livres(Catégorie.csv)
+Les images sont stockées dans des dossiers csv correspondant à chaque catégorie de livres(Catégorie)
 *************************************************************************************************************
 
 **Installation :**
@@ -40,7 +41,7 @@ Ces informations sont stockées dans des fichiers csv correspondant à chaque ca
 
 Sur windows:
 
-`. env/Scripts/activate`
+`env/Scripts/activate`
 
 Sur mac ou linux:   
 
